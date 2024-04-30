@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "package": "gtlugo.readyaimfire.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "ExampleMixin",
+    "items.BowItemMixin",
+    "items.CrossbowItemMixin",
+    "items.EnderPearlItemMixin",
+    "items.ItemMixin",
+    "items.SnowballItemMixin",
+    "items.TridentItemMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
