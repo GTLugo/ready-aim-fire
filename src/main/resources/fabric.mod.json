@@ -3,15 +3,14 @@
   "id": "readyaimfire",
   "version": "${version}",
   "name": "Ready Aim Fire",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Removes the random spread of projectile weapons such as bows, tridents, and snowballs.",
   "authors": [
-    "Me!"
+    "GTLugo"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "sources": "https://github.com/gtlugo/ready-aim-fire"
   },
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/readyaimfire/icon.png",
   "environment": "*",
   "entrypoints": {
